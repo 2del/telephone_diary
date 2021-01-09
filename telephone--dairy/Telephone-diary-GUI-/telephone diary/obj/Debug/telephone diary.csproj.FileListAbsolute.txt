@@ -1,0 +1,30 @@
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.exe.config
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.exe
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.pdb
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone_diary.Properties.Resources.resources
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.exe
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.pdb
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone_diary.phone.resources
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.exe.config
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.exe
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.pdb
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csprojAssemblyReference.cache
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone_diary.phone.resources
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone_diary.Properties.Resources.resources
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csproj.GenerateResource.cache
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.exe
+C:\Users\Mrs Lily\Source\Repos\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.pdb
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.exe.config
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.exe
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\bin\Debug\telephone diary.pdb
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csprojAssemblyReference.cache
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone_diary.phone.resources
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone_diary.Properties.Resources.resources
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csproj.GenerateResource.cache
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.exe
+C:\Users\Mrs Lily\Source\Repos\telephone--dairy\Telephone-diary-GUI-\telephone diary\obj\Debug\telephone diary.pdb
